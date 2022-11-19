@@ -24,7 +24,7 @@
     "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1100.3",
+    "@angular-devkit/build-angular": "^15.0.0",
     "@angular/animations": "^11.0.3",
     "@angular/cli": "^11.0.3",
     "@angular/common": "^11.0.3",
@@ -44,7 +44,7 @@
     "codelyzer": "^6.0.1",
     "eslint": "^6.8.0",
     "fibers": "^4.0.2",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~4.4.1",
